@@ -93,7 +93,7 @@ Ensure your `top.v` properly points to the `instr.mem` file using `$readmemb`.
 
 ## 📖 Documentation
 
-See [`docs/architecture.md`](docs/architecture.md) for:
+See [`architecture.md`](architecture.md) for:
 
 * Instruction formats
 * FSM state transitions
