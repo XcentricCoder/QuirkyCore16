@@ -109,5 +109,9 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to fork, open issues, or submit pull requests to improve or extend the CPU!
 
 ---
+## Credits
+
+This project is a personal implementation inspired by the Udemy course "Building a Processor with Verilog HDL from Scratch" by Kumar Khandagle.
+
 
 Built with ❤️ using Verilog HDL.
